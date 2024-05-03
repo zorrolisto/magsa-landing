@@ -1904,7 +1904,7 @@ label {
   text-align: center;
   transform: rotate(8deg);
 }
-.slider-plane {
+.nslider-plane {
   position: absolute;
   left: 75px;
   bottom: 35%;
